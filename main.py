@@ -1,4 +1,4 @@
-# this is not my code
+# this is not my code (NeuralNine: https://www.youtube.com/@NeuralNine)
 
 import random
 import numpy as np
